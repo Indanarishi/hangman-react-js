@@ -70,4 +70,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # hangman-react-js
 Hangman App with React JS
+
+got the components from here https://github.com/bradtraversy/vanillawebprojects/tree/master/hangman
 >>>>>>> 6c3a46d03a9ed3675a37955e137d5a94fc460193
